@@ -12,6 +12,7 @@ for num in list1:
 
 
 #updating New
+
 num1 = 2
 num2 = 2
 num3 = num1+num2
